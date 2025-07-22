@@ -28,7 +28,7 @@ E --> F[客户分群]
 
 
 ## 可视化展示
-![RFM客户分群](sales_trend.png)
+![RFM客户分群](https://github.com/lizhiyong41/OnlineRetail-Analysis/blob/main/assets/KMeans_Clustering_Results.png)
 *图：基于K-Means聚类的客户价值分群*
 
 
